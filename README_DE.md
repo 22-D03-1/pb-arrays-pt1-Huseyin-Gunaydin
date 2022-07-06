@@ -53,3 +53,5 @@ Gib die Ergebnisse in der Konsole aus.
 5. Drehe die Reihenfolge der Felder um.
 6. Greife auf einen der Namen deiner Eltern zu.
 7. Aktualisiere den Namen eines deiner Elternteile.
+
+
